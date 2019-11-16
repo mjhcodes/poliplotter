@@ -2,11 +2,12 @@
 
 ## Description
 - A word cloud generator based on specified political tweets.
-- Project summarization written on July 28th, 2019 and published on Medium at https://medium.com/swlh/the-political-power-of-words-3ea8c98686d9
+- Project summarization written on July 28th, 2019.
+- Published on Medium at https://medium.com/swlh/the-political-power-of-words-3ea8c98686d9
 - Promoted by The Startup, Medium's largest active publication, followed by +526K people.
 
 ## Languages
-- Written solely with Python
+- Written in Python
 
 ## Libraries 
 - **re**: Regular expression operations.
@@ -19,7 +20,7 @@
 - **matplotlib**: A Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments.
 - **wordcloud**: A little word cloud generator.
 
-## Future Endeavor
+## Future Endeavors
 
 - Convert into independent Twitter bot.
 - Select hosting platform and deploy.
